@@ -1,0 +1,1 @@
+This is a simple project created to learn MERN stack basics
